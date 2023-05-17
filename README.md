@@ -1,5 +1,5 @@
 # weather-app
-- [Demo Project](https://pouria-farahani-developer.github.io/Accordion-Menu-By-React/)
+- [Demo Project](https://fatemehafandak.github.io/weather-app/)
 
 - Developed by fateme afandak
 
